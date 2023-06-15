@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="fourth.txt" target="17" />
+      <module name="fourth.txt.main" target="17" />
+      <module name="fourth.txt.test" target="17" />
       <module name="third.txt" target="17" />
       <module name="third.txt.main" target="17" />
       <module name="third.txt.test" target="17" />

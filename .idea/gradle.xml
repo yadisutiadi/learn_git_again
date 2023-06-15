@@ -3,6 +3,16 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fourth.txt" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle/gradle-7.5.1" />
+        <option name="gradleJvm" value="corretto-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/fourth.txt" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/third.txt" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle/gradle-7.5.1" />
         <option name="gradleJvm" value="corretto-17" />

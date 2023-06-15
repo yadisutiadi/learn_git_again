@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fourth.txt.iml" filepath="$PROJECT_DIR$/fourth.txt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fourth.txt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fourth.txt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fourth.txt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fourth.txt.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn_git_again.iml" filepath="$PROJECT_DIR$/.idea/learn_git_again.iml" />
       <module fileurl="file://$PROJECT_DIR$/third.txt.iml" filepath="$PROJECT_DIR$/third.txt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/third.txt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/third.txt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/third.txt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/third.txt.test.iml" />
     </modules>
   </component>
 </project>
